@@ -1,0 +1,86 @@
+[
+  {
+    "type": "Pompe",
+    "count": 56461
+  },
+  {
+    "type": "Emetteur",
+    "count": 49924
+  },
+  {
+    "type": "Armoire électrique",
+    "count": 33480
+  },
+  {
+    "type": "Système de climatisation",
+    "count": 32646
+  },
+  {
+    "type": "Ventilateur mécanique",
+    "count": 25060
+  },
+  {
+    "type": "Compteur",
+    "count": 24439
+  },
+  {
+    "type": "CTA",
+    "count": 18828
+  },
+  {
+    "type": "Vanne",
+    "count": 18716
+  },
+  {
+    "type": "Production et stockage ECS",
+    "count": 16337
+  },
+  {
+    "type": "Extincteur",
+    "count": 11249
+  },
+  {
+    "type": "Éclairage de sécurité",
+    "count": 10615
+  },
+  {
+    "type": "Protection des réseaux",
+    "count": 10478
+  },
+  {
+    "type": "Traitement d'eau",
+    "count": 10338
+  },
+  {
+    "type": "",
+    "count": 9704
+  },
+  {
+    "type": "Chaudière",
+    "count": 9668
+  },
+  {
+    "type": "Éclairage intérieur",
+    "count": 8693
+  },
+  {
+    "type": "Dispositif anti-pollution",
+    "count": 8524
+  },
+  {
+    "type": "Équipement sanitaire",
+    "count": 8153
+  },
+  {
+    "type": "Système de régulation",
+    "count": 7645
+  },
+  {
+    "type": "Ventilateur de désenfumage mécanique",
+    "count": 6002
+  },
+  {
+    "type": "Others",
+    "count": 132273
+  }
+]
