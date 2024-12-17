@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import DistributionAnalysis from './components/DistributionAnalysis';
 import SamplingAnalysis from './components/SamplingAnalysis';
 import SamplingComparison from './components/SamplingComparison';
+// Import JSON data
+import all_types_data from './all_types_data.json';
+import top20_data from './top20_data.json';
 import samplingComparisonData from './sampling_comparison.json';
 
 function App() {
@@ -42,9 +45,9 @@ function App() {
 
       <main className="container mx-auto px-4">
         {currentPage === 'distribution' ? (
-          <DistributionAnalysis data20={data20} dataAll={dataAll} />
+          <DistributionAnalysis data20={top20_data} dataAll={all_types_data} />
         ) : currentPage === 'sampling' ? (
-          <SamplingAnalysis data20={data20} dataAll={dataAll} />
+          <SamplingAnalysis data20={top20_data} dataAll={all_types_data} />
         ) : (
           <SamplingComparison comparisonData={samplingComparisonData} />
         )}

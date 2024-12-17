@@ -1,86 +1,107 @@
 [
   {
     "type": "Pompe",
-    "count": 56461
+    "count": 56461,
+    "percentage": 11.075018879767756
   },
   {
     "type": "Emetteur",
-    "count": 49924
+    "count": 49924,
+    "percentage": 9.79276389992252
   },
   {
     "type": "Armoire électrique",
-    "count": 33480
+    "count": 33480,
+    "percentage": 6.567216877041222
   },
   {
     "type": "Système de climatisation",
-    "count": 32646
+    "count": 32646,
+    "percentage": 6.403624915408833
   },
   {
     "type": "Ventilateur mécanique",
-    "count": 25060
+    "count": 25060,
+    "percentage": 4.915604986220221
   },
   {
     "type": "Compteur",
-    "count": 24439
+    "count": 24439,
+    "percentage": 4.793793705436392
   },
   {
     "type": "CTA",
-    "count": 18828
+    "count": 18828,
+    "percentage": 3.6931768028952248
   },
   {
     "type": "Vanne",
-    "count": 18716
+    "count": 18716,
+    "percentage": 3.671207618599268
   },
   {
     "type": "Production et stockage ECS",
-    "count": 16337
+    "count": 16337,
+    "percentage": 3.204558605741411
   },
   {
     "type": "Extincteur",
-    "count": 11249
+    "count": 11249,
+    "percentage": 2.2065299477251106
   },
   {
     "type": "Éclairage de sécurité",
-    "count": 10615
+    "count": 10615,
+    "percentage": 2.082168672335501
   },
   {
     "type": "Protection des réseaux",
-    "count": 10478
+    "count": 10478,
+    "percentage": 2.055295652259197
   },
   {
     "type": "Traitement d'eau",
-    "count": 10338
+    "count": 10338,
+    "percentage": 2.0278341718892516
   },
   {
     "type": "",
-    "count": 9704
+    "count": 9704,
+    "percentage": 1.9034728964996421
   },
   {
     "type": "Chaudière",
-    "count": 9668
+    "count": 9668,
+    "percentage": 1.8964113729759418
   },
   {
     "type": "Éclairage intérieur",
-    "count": 8693
+    "count": 8693,
+    "percentage": 1.7051617775423935
   },
   {
     "type": "Dispositif anti-pollution",
-    "count": 8524
+    "count": 8524,
+    "percentage": 1.6720118476672454
   },
   {
     "type": "Équipement sanitaire",
-    "count": 8153
+    "count": 8153,
+    "percentage": 1.5992389246868899
   },
   {
     "type": "Système de régulation",
-    "count": 7645
+    "count": 7645,
+    "percentage": 1.4995929816302311
   },
   {
     "type": "Ventilateur de désenfumage mécanique",
-    "count": 6002
+    "count": 6002,
+    "percentage": 1.1773128941458009
   },
   {
     "type": "Others",
-    "count": 132273
+    "count": 132273,
+    "percentage": 25.945802806955598
   }
 ]

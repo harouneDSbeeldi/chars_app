@@ -1,970 +1,1212 @@
 [
   {
     "type": "Pompe",
-    "count": 56461
+    "count": 56461,
+    "percentage": 11.075018879767756
   },
   {
     "type": "Emetteur",
-    "count": 49924
+    "count": 49924,
+    "percentage": 9.79276389992252
   },
   {
     "type": "Armoire électrique",
-    "count": 33480
+    "count": 33480,
+    "percentage": 6.567216877041222
   },
   {
     "type": "Système de climatisation",
-    "count": 32646
+    "count": 32646,
+    "percentage": 6.403624915408833
   },
   {
     "type": "Ventilateur mécanique",
-    "count": 25060
+    "count": 25060,
+    "percentage": 4.915604986220221
   },
   {
     "type": "Compteur",
-    "count": 24439
+    "count": 24439,
+    "percentage": 4.793793705436392
   },
   {
     "type": "CTA",
-    "count": 18828
+    "count": 18828,
+    "percentage": 3.6931768028952248
   },
   {
     "type": "Vanne",
-    "count": 18716
+    "count": 18716,
+    "percentage": 3.671207618599268
   },
   {
     "type": "Production et stockage ECS",
-    "count": 16337
+    "count": 16337,
+    "percentage": 3.204558605741411
   },
   {
     "type": "Extincteur",
-    "count": 11249
+    "count": 11249,
+    "percentage": 2.2065299477251106
   },
   {
     "type": "Éclairage de sécurité",
-    "count": 10615
+    "count": 10615,
+    "percentage": 2.082168672335501
   },
   {
     "type": "Protection des réseaux",
-    "count": 10478
+    "count": 10478,
+    "percentage": 2.055295652259197
   },
   {
     "type": "Traitement d'eau",
-    "count": 10338
+    "count": 10338,
+    "percentage": 2.0278341718892516
   },
   {
     "type": "",
-    "count": 9704
+    "count": 9704,
+    "percentage": 1.9034728964996421
   },
   {
     "type": "Chaudière",
-    "count": 9668
+    "count": 9668,
+    "percentage": 1.8964113729759418
   },
   {
     "type": "Éclairage intérieur",
-    "count": 8693
+    "count": 8693,
+    "percentage": 1.7051617775423935
   },
   {
     "type": "Dispositif anti-pollution",
-    "count": 8524
+    "count": 8524,
+    "percentage": 1.6720118476672454
   },
   {
     "type": "Équipement sanitaire",
-    "count": 8153
+    "count": 8153,
+    "percentage": 1.5992389246868899
   },
   {
     "type": "Système de régulation",
-    "count": 7645
+    "count": 7645,
+    "percentage": 1.4995929816302311
   },
   {
     "type": "Ventilateur de désenfumage mécanique",
-    "count": 6002
+    "count": 6002,
+    "percentage": 1.1773128941458009
   },
   {
     "type": "Coffret électrique",
-    "count": 4904
+    "count": 4904,
+    "percentage": 0.9619364266729435
   },
   {
     "type": "Cellule HT/MT",
-    "count": 4866
+    "count": 4866,
+    "percentage": 0.9544825962868155
   },
   {
     "type": "Échangeur / Récupérateur",
-    "count": 4736
+    "count": 4736,
+    "percentage": 0.928982650229009
   },
   {
     "type": "Groupe froid",
-    "count": 4534
+    "count": 4534,
+    "percentage": 0.8893596571238023
   },
   {
     "type": "Système de compartimentage",
-    "count": 4018
+    "count": 4018,
+    "percentage": 0.7881444866174321
   },
   {
     "type": "Local",
-    "count": 3818
+    "count": 3818,
+    "percentage": 0.748913800374653
   },
   {
     "type": "Armoire de climatisation",
-    "count": 3795
+    "count": 3795,
+    "percentage": 0.7444022714567334
   },
   {
     "type": "Régulateur de pression",
-    "count": 3602
+    "count": 3602,
+    "percentage": 0.7065446592324516
   },
   {
     "type": "Transformateur",
-    "count": 3334
+    "count": 3334,
+    "percentage": 0.6539755396671276
   },
   {
     "type": "Porte de garage",
-    "count": 3244
+    "count": 3244,
+    "percentage": 0.636321730857877
   },
   {
     "type": "Réseau aéraulique",
-    "count": 3222
+    "count": 3222,
+    "percentage": 0.6320063553711713
   },
   {
     "type": "Variateur de vitesse",
-    "count": 3208
+    "count": 3208,
+    "percentage": 0.6292602073341768
   },
   {
     "type": "Système de désenfumage",
-    "count": 3208
+    "count": 3208,
+    "percentage": 0.6292602073341768
   },
   {
     "type": "Onduleur",
-    "count": 3140
+    "count": 3140,
+    "percentage": 0.6159217740116318
   },
   {
     "type": "Système de détection incendie",
-    "count": 3128
+    "count": 3128,
+    "percentage": 0.6135679328370651
   },
   {
     "type": "TGBT",
-    "count": 3105
+    "count": 3105,
+    "percentage": 0.6090564039191455
   },
   {
     "type": "Contrôle d'accès",
-    "count": 3093
+    "count": 3093,
+    "percentage": 0.6067025627445788
   },
   {
     "type": "PAC",
-    "count": 2925
+    "count": 2925,
+    "percentage": 0.5737487863006443
   },
   {
     "type": "Aérotherme",
-    "count": 2257
+    "count": 2257,
+    "percentage": 0.44271829424976217
   },
   {
     "type": "Organe de coupure électrique",
-    "count": 2054
+    "count": 2054,
+    "percentage": 0.40289914771334134
   },
   {
     "type": "Porte piétonne",
-    "count": 1912
+    "count": 1912,
+    "percentage": 0.37504536048096826
   },
   {
     "type": "Ballon de stockage eau chaude",
-    "count": 1705
+    "count": 1705,
+    "percentage": 0.3344416002196918
   },
   {
     "type": "Éclairage extérieur",
-    "count": 1665
+    "count": 1665,
+    "percentage": 0.326595462971136
   },
   {
     "type": "Matériel de cuisson",
-    "count": 1545
+    "count": 1545,
+    "percentage": 0.30305705122546855
   },
   {
     "type": "Brûleur",
-    "count": 1488
+    "count": 1488,
+    "percentage": 0.2918763056462765
   },
   {
     "type": "RIA",
-    "count": 1468
+    "count": 1468,
+    "percentage": 0.2879532370219986
   },
   {
     "type": "Équipement d'alarme EA",
-    "count": 1431
+    "count": 1431,
+    "percentage": 0.28069556006708446
   },
   {
     "type": "Menuiserie intérieure",
-    "count": 1408
+    "count": 1408,
+    "percentage": 0.27618403114916484
   },
   {
     "type": "Rideau métallique",
-    "count": 1342
+    "count": 1342,
+    "percentage": 0.2632379046890478
   },
   {
     "type": "Ascenseur",
-    "count": 1300
+    "count": 1300,
+    "percentage": 0.25499946057806416
   },
   {
     "type": "Chambre froide",
-    "count": 1273
+    "count": 1273,
+    "percentage": 0.249703317935289
   },
   {
     "type": "Menuiserie extérieure",
-    "count": 1272
+    "count": 1272,
+    "percentage": 0.2495071645040751
   },
   {
     "type": "Réseau de distribution électrique",
-    "count": 1235
+    "count": 1235,
+    "percentage": 0.24224948754916095
   },
   {
     "type": "Réseau hydraulique",
-    "count": 1229
+    "count": 1229,
+    "percentage": 0.24107256696187757
   },
   {
     "type": "Cuisine / Restaurant",
-    "count": 1219
+    "count": 1219,
+    "percentage": 0.2391110326497386
   },
   {
     "type": "Compresseur d'air",
-    "count": 1183
+    "count": 1183,
+    "percentage": 0.2320495091260384
   },
   {
     "type": "Matériel réfrigéré",
-    "count": 1130
+    "count": 1130,
+    "percentage": 0.22165337727170195
   },
   {
     "type": "Portail",
-    "count": 998
+    "count": 998,
+    "percentage": 0.19576112435146772
   },
   {
     "type": "Humidificateur",
-    "count": 920
+    "count": 920,
+    "percentage": 0.18046115671678387
   },
   {
     "type": "Groupe électrogène",
-    "count": 869
+    "count": 869,
+    "percentage": 0.1704573317248752
   },
   {
     "type": "Électroménager pro",
-    "count": 861
+    "count": 861,
+    "percentage": 0.168888104275164
   },
   {
     "type": "Réseau sprinkler",
-    "count": 854
+    "count": 854,
+    "percentage": 0.16751503025666678
   },
   {
     "type": "Sonde",
-    "count": 786
+    "count": 786,
+    "percentage": 0.15417659693412186
   },
   {
     "type": "Toiture",
-    "count": 771
+    "count": 771,
+    "percentage": 0.15123429546591344
   },
   {
     "type": "Fermeture et store",
-    "count": 768
+    "count": 768,
+    "percentage": 0.15064583517227176
   },
   {
     "type": "Ventilateur parking",
-    "count": 753
+    "count": 753,
+    "percentage": 0.14770353370406333
   },
   {
     "type": "Condenseur",
-    "count": 749
+    "count": 749,
+    "percentage": 0.14691891997920772
   },
   {
     "type": "Borne de recharge véhicule électrique",
-    "count": 742
+    "count": 742,
+    "percentage": 0.14554584596071046
   },
   {
     "type": "Système de gestion technique",
-    "count": 738
+    "count": 738,
+    "percentage": 0.1447612322358549
   },
   {
     "type": "Centrale de détection gaz",
-    "count": 721
+    "count": 721,
+    "percentage": 0.14142662390521865
   },
   {
     "type": "Commande d'éclairage",
-    "count": 705
+    "count": 705,
+    "percentage": 0.13828816900579632
   },
   {
     "type": "Niveleur de quai",
-    "count": 694
+    "count": 694,
+    "percentage": 0.13613048126244348
   },
   {
     "type": "Commande de désenfumage naturel",
-    "count": 688
+    "count": 688,
+    "percentage": 0.1349535606751601
   },
   {
     "type": "Système d'évacuation",
-    "count": 676
+    "count": 676,
+    "percentage": 0.13259971950059338
   },
   {
     "type": "Propreté",
-    "count": 669
+    "count": 669,
+    "percentage": 0.1312266454820961
   },
   {
     "type": "Dry cooler",
-    "count": 666
+    "count": 666,
+    "percentage": 0.1306381851884544
   },
   {
     "type": "Réservoir",
-    "count": 663
+    "count": 663,
+    "percentage": 0.1300497248948127
   },
   {
     "type": "Batterie de condensateurs",
-    "count": 656
+    "count": 656,
+    "percentage": 0.12867665087631547
   },
   {
     "type": "Système de vidéosurveillance",
-    "count": 614
+    "count": 614,
+    "percentage": 0.12043820676533185
   },
   {
     "type": "Cuve",
-    "count": 587
+    "count": 587,
+    "percentage": 0.11514206412255666
   },
   {
     "type": "Pont",
-    "count": 581
+    "count": 581,
+    "percentage": 0.11396514353527328
   },
   {
     "type": "Fontaine à eau",
-    "count": 562
+    "count": 562,
+    "percentage": 0.11023822834220927
   },
   {
     "type": "Détecteur de gaz",
-    "count": 543
+    "count": 543,
+    "percentage": 0.10651131314914526
   },
   {
     "type": "Système anti-intrusion",
-    "count": 532
+    "count": 532,
+    "percentage": 0.1043536254057924
   },
   {
     "type": "Autre air comprimé",
-    "count": 521
+    "count": 521,
+    "percentage": 0.10219593766243955
   },
   {
     "type": "Inverseur de source",
-    "count": 520
+    "count": 520,
+    "percentage": 0.10199978423122567
   },
   {
     "type": "Porte rapide",
-    "count": 500
+    "count": 500,
+    "percentage": 0.09807671560694775
   },
   {
     "type": "Approvisionnement gaz",
-    "count": 493
+    "count": 493,
+    "percentage": 0.09670364158845049
   },
   {
     "type": "Climatiseur monobloc",
-    "count": 480
+    "count": 480,
+    "percentage": 0.09415364698266984
   },
   {
     "type": "Climatiseur mobile",
-    "count": 477
+    "count": 477,
+    "percentage": 0.09356518668902816
   },
   {
     "type": "Chargeur de batterie",
-    "count": 464
+    "count": 464,
+    "percentage": 0.09101519208324751
   },
   {
     "type": "Ballon de stockage eau glacée",
-    "count": 463
+    "count": 463,
+    "percentage": 0.09081903865203361
   },
   {
     "type": "Revêtement",
-    "count": 438
+    "count": 438,
+    "percentage": 0.08591520287168623
   },
   {
     "type": "Batterie",
-    "count": 428
+    "count": 428,
+    "percentage": 0.08395366855954728
   },
   {
     "type": "Serrurerie",
-    "count": 425
+    "count": 425,
+    "percentage": 0.08336520826590559
   },
   {
     "type": "Réseau de communication",
-    "count": 422
+    "count": 422,
+    "percentage": 0.0827767479722639
   },
   {
     "type": "Colonne extinction incendie",
-    "count": 404
+    "count": 404,
+    "percentage": 0.07924598621041379
   },
   {
     "type": "Climatiseur monobloc réversible",
-    "count": 400
+    "count": 400,
+    "percentage": 0.0784613724855582
   },
   {
     "type": "Installation fixe d'extinction automatique",
-    "count": 375
+    "count": 375,
+    "percentage": 0.07355753670521081
   },
   {
     "type": "Réseau d'évacuation",
-    "count": 370
+    "count": 370,
+    "percentage": 0.07257676954914134
   },
   {
     "type": "AES",
-    "count": 362
+    "count": 362,
+    "percentage": 0.07100754209943017
   },
   {
     "type": "Palan - Potence - Portique",
-    "count": 358
+    "count": 358,
+    "percentage": 0.0702229283745746
   },
   {
     "type": "Sécheur d'air",
-    "count": 330
+    "count": 330,
+    "percentage": 0.06473063230058552
   },
   {
     "type": "Mobilier",
-    "count": 323
+    "count": 323,
+    "percentage": 0.06335755828208825
   },
   {
     "type": "Porte issue de secours",
-    "count": 321
+    "count": 321,
+    "percentage": 0.06296525141966046
   },
   {
     "type": "Élément de sécurité ",
-    "count": 314
+    "count": 314,
+    "percentage": 0.061592177401163184
   },
   {
     "type": "Nacelle",
-    "count": 279
+    "count": 279,
+    "percentage": 0.05472680730867685
   },
   {
     "type": "Signalétique",
-    "count": 277
+    "count": 277,
+    "percentage": 0.05433450044624906
   },
   {
     "type": "Façade",
-    "count": 275
+    "count": 275,
+    "percentage": 0.05394219358382127
   },
   {
     "type": "Gestion des déchets",
-    "count": 274
+    "count": 274,
+    "percentage": 0.053746040152607366
   },
   {
     "type": "Moyen d'accès en hauteur",
-    "count": 258
+    "count": 258,
+    "percentage": 0.05060758525318504
   },
   {
     "type": "Solaire thermique",
-    "count": 253
+    "count": 253,
+    "percentage": 0.04962681809711556
   },
   {
     "type": "Système biomasse",
-    "count": 248
+    "count": 248,
+    "percentage": 0.048646050941046085
   },
   {
     "type": "Monte-charge",
-    "count": 226
+    "count": 226,
+    "percentage": 0.044330675454340385
   },
   {
     "type": "Plan d'évacuation",
-    "count": 217
+    "count": 217,
+    "percentage": 0.042565294573415326
   },
   {
     "type": "Protection foudre",
-    "count": 213
+    "count": 213,
+    "percentage": 0.041780680848559744
   },
   {
     "type": "Sécurité des personnes",
-    "count": 212
+    "count": 212,
+    "percentage": 0.04158452741734585
   },
   {
     "type": "Système de lavage",
-    "count": 210
+    "count": 210,
+    "percentage": 0.04119222055491806
   },
   {
     "type": "Registre de sécurité",
-    "count": 207
+    "count": 207,
+    "percentage": 0.04060376026127637
   },
   {
     "type": "Piscine",
-    "count": 205
+    "count": 205,
+    "percentage": 0.04021145339884858
   },
   {
     "type": "Système de détection de fuite",
-    "count": 203
+    "count": 203,
+    "percentage": 0.03981914653642079
   },
   {
     "type": "Plafond",
-    "count": 200
+    "count": 200,
+    "percentage": 0.0392306862427791
   },
   {
     "type": "Accès PMR",
-    "count": 198
+    "count": 198,
+    "percentage": 0.03883837938035131
   },
   {
     "type": "Matériel extinction incendie",
-    "count": 197
+    "count": 197,
+    "percentage": 0.03864222594913742
   },
   {
     "type": "TGS",
-    "count": 190
+    "count": 190,
+    "percentage": 0.03726915193064015
   },
   {
     "type": "Permutateur de source HT",
-    "count": 187
+    "count": 187,
+    "percentage": 0.03668069163699846
   },
   {
     "type": "Bureau",
-    "count": 183
+    "count": 183,
+    "percentage": 0.03589607791214288
   },
   {
     "type": "DAC",
-    "count": 177
+    "count": 177,
+    "percentage": 0.0347191573248595
   },
   {
     "type": "Tour aéroréfrigérante",
-    "count": 169
+    "count": 169,
+    "percentage": 0.033149929875148344
   },
   {
     "type": "Système de séchage",
-    "count": 165
+    "count": 165,
+    "percentage": 0.03236531615029276
   },
   {
     "type": "Débitmètre",
-    "count": 163
+    "count": 163,
+    "percentage": 0.031973009287864965
   },
   {
     "type": "Organe de coupure eau sanitaire",
-    "count": 152
+    "count": 152,
+    "percentage": 0.029815321544512115
   },
   {
     "type": "Solaire photovoltaïque",
-    "count": 149
+    "count": 149,
+    "percentage": 0.029226861250870432
   },
   {
     "type": "UGA",
-    "count": 144
+    "count": 144,
+    "percentage": 0.02824609409480095
   },
   {
     "type": "Table élévatrice",
-    "count": 142
+    "count": 142,
+    "percentage": 0.02785378723237316
   },
   {
     "type": "Multimédia",
-    "count": 138
+    "count": 138,
+    "percentage": 0.02706917350751758
   },
   {
     "type": "Réservoir incendie",
-    "count": 134
+    "count": 134,
+    "percentage": 0.026284559782661997
   },
   {
     "type": "Process",
-    "count": 133
+    "count": 133,
+    "percentage": 0.0260884063514481
   },
   {
     "type": "Réseau d'air comprimé",
-    "count": 125
+    "count": 125,
+    "percentage": 0.024519178901736938
   },
   {
     "type": "Protection bâtiment et personnel",
-    "count": 124
+    "count": 124,
+    "percentage": 0.024323025470523042
   },
   {
     "type": "Couteaux et découpe",
-    "count": 119
+    "count": 119,
+    "percentage": 0.023342258314453565
   },
   {
     "type": "Cuve fioul pour GE",
-    "count": 113
+    "count": 113,
+    "percentage": 0.022165337727170192
   },
   {
     "type": "Appartement",
-    "count": 112
+    "count": 112,
+    "percentage": 0.021969184295956297
   },
   {
     "type": "Bureautique",
-    "count": 106
+    "count": 106,
+    "percentage": 0.020792263708672924
   },
   {
     "type": "Parties communes",
-    "count": 101
+    "count": 101,
+    "percentage": 0.019811496552603447
   },
   {
     "type": "Bouche d'incendie",
-    "count": 101
+    "count": 101,
+    "percentage": 0.019811496552603447
   },
   {
     "type": "Mur",
-    "count": 101
+    "count": 101,
+    "percentage": 0.019811496552603447
   },
   {
     "type": "Sas et étanchéité",
-    "count": 100
+    "count": 100,
+    "percentage": 0.01961534312138955
   },
   {
     "type": "Réseaux",
-    "count": 99
+    "count": 99,
+    "percentage": 0.019419189690175656
   },
   {
     "type": "Déstratificateur",
-    "count": 92
+    "count": 92,
+    "percentage": 0.018046115671678388
   },
   {
     "type": "Travail du bois",
-    "count": 92
+    "count": 92,
+    "percentage": 0.018046115671678388
   },
   {
     "type": "Organe de coupure gaz",
-    "count": 90
+    "count": 90,
+    "percentage": 0.017653808809250597
   },
   {
     "type": "Thermomètre",
-    "count": 85
+    "count": 85,
+    "percentage": 0.01667304165318112
   },
   {
     "type": "Réseau condensats",
-    "count": 84
+    "count": 84,
+    "percentage": 0.016476888221967224
   },
   {
     "type": "Traceur",
-    "count": 74
+    "count": 74,
+    "percentage": 0.014515353909828266
   },
   {
     "type": "Séparateur eau-huile",
-    "count": 71
+    "count": 71,
+    "percentage": 0.01392689361618658
   },
   {
     "type": "Chariot de manutention",
-    "count": 65
+    "count": 65,
+    "percentage": 0.01274997302890321
   },
   {
     "type": "Centrale de mesures",
-    "count": 64
+    "count": 64,
+    "percentage": 0.012553819597689312
   },
   {
     "type": "Transpalette",
-    "count": 64
+    "count": 64,
+    "percentage": 0.012553819597689312
   },
   {
     "type": "Espaces verts",
-    "count": 61
+    "count": 61,
+    "percentage": 0.011965359304047626
   },
   {
     "type": "Préparateur de boissons",
-    "count": 58
+    "count": 58,
+    "percentage": 0.01137689901040594
   },
   {
     "type": "Réseau vapeur",
-    "count": 54
+    "count": 54,
+    "percentage": 0.010592285285550358
   },
   {
     "type": "Réseau urbain",
-    "count": 52
+    "count": 52,
+    "percentage": 0.010199978423122567
   },
   {
     "type": "Approvisionnement fioul",
-    "count": 51
+    "count": 51,
+    "percentage": 0.010003824991908671
   },
   {
     "type": "Blanchisserie",
-    "count": 50
+    "count": 50,
+    "percentage": 0.009807671560694776
   },
   {
     "type": "Manomètre",
-    "count": 49
+    "count": 49,
+    "percentage": 0.009611518129480879
   },
   {
     "type": "Froid industriel",
-    "count": 45
+    "count": 45,
+    "percentage": 0.008826904404625299
   },
   {
     "type": "Voirie",
-    "count": 44
+    "count": 44,
+    "percentage": 0.008630750973411401
   },
   {
     "type": "Convoyeur",
-    "count": 42
+    "count": 42,
+    "percentage": 0.008238444110983612
   },
   {
     "type": "Balcon",
-    "count": 42
+    "count": 42,
+    "percentage": 0.008238444110983612
   },
   {
     "type": "Gerbeur",
-    "count": 38
+    "count": 38,
+    "percentage": 0.007453830386128029
   },
   {
     "type": "Système de repassage",
-    "count": 38
+    "count": 38,
+    "percentage": 0.007453830386128029
   },
   {
     "type": "Treuil",
-    "count": 38
+    "count": 38,
+    "percentage": 0.007453830386128029
   },
   {
     "type": "Divers",
-    "count": 37
+    "count": 37,
+    "percentage": 0.007257676954914133
   },
   {
     "type": "Cloison",
-    "count": 32
+    "count": 32,
+    "percentage": 0.006276909798844656
   },
   {
     "type": "Métrologie",
-    "count": 32
+    "count": 32,
+    "percentage": 0.006276909798844656
   },
   {
     "type": "Réseau de vide",
-    "count": 30
+    "count": 30,
+    "percentage": 0.005884602936416865
   },
   {
     "type": "Enceinte climatique",
-    "count": 30
+    "count": 30,
+    "percentage": 0.005884602936416865
   },
   {
     "type": "Station GNV",
-    "count": 29
+    "count": 29,
+    "percentage": 0.00568844950520297
   },
   {
     "type": "EPI",
-    "count": 28
+    "count": 28,
+    "percentage": 0.005492296073989074
   },
   {
     "type": "Système d'emballage",
-    "count": 27
+    "count": 27,
+    "percentage": 0.005296142642775179
   },
   {
     "type": "Contrôleur d'isolement",
-    "count": 24
+    "count": 24,
+    "percentage": 0.0047076823491334924
   },
   {
     "type": "Clôture",
-    "count": 22
+    "count": 22,
+    "percentage": 0.004315375486705701
   },
   {
     "type": "Infrastructure",
-    "count": 20
+    "count": 20,
+    "percentage": 0.003923068624277911
   },
   {
     "type": "Système éolien",
-    "count": 20
+    "count": 20,
+    "percentage": 0.003923068624277911
   },
   {
     "type": "Parking",
-    "count": 20
+    "count": 20,
+    "percentage": 0.003923068624277911
   },
   {
     "type": "Vapeur eau surchauffée",
-    "count": 20
+    "count": 20,
+    "percentage": 0.003923068624277911
   },
   {
     "type": "Réseau incendie et sécurité",
-    "count": 20
+    "count": 20,
+    "percentage": 0.003923068624277911
   },
   {
     "type": "Station de carburant",
-    "count": 19
+    "count": 19,
+    "percentage": 0.0037269151930640143
   },
   {
     "type": "Escalator",
-    "count": 17
+    "count": 17,
+    "percentage": 0.003334608330636224
   },
   {
     "type": "3D / 4D",
-    "count": 17
+    "count": 17,
+    "percentage": 0.003334608330636224
   },
   {
     "type": "Chaudière vapeur (Process)",
-    "count": 16
+    "count": 16,
+    "percentage": 0.003138454899422328
   },
   {
     "type": "Plancher",
-    "count": 14
+    "count": 14,
+    "percentage": 0.002746148036994537
   },
   {
     "type": "Organe de coupure eau incendie",
-    "count": 13
+    "count": 13,
+    "percentage": 0.0025499946057806417
   },
   {
     "type": "Distribution hydraulique",
-    "count": 13
+    "count": 13,
+    "percentage": 0.0025499946057806417
   },
   {
     "type": "Fluides spéciaux",
-    "count": 10
+    "count": 10,
+    "percentage": 0.0019615343121389553
   },
   {
     "type": "Rangement",
-    "count": 10
+    "count": 10,
+    "percentage": 0.0019615343121389553
   },
   {
     "type": "Sécurité / Sûreté",
-    "count": 10
+    "count": 10,
+    "percentage": 0.0019615343121389553
   },
   {
     "type": "Aire de jeux",
-    "count": 10
+    "count": 10,
+    "percentage": 0.0019615343121389553
   },
   {
     "type": "Accueil",
-    "count": 9
+    "count": 9,
+    "percentage": 0.0017653808809250594
   },
   {
     "type": "Station de lavage",
-    "count": 8
+    "count": 8,
+    "percentage": 0.001569227449711164
   },
   {
     "type": "Nettoyage centralisé par vide",
-    "count": 8
+    "count": 8,
+    "percentage": 0.001569227449711164
   },
   {
     "type": "Gestion des véhicules",
-    "count": 8
+    "count": 8,
+    "percentage": 0.001569227449711164
   },
   {
     "type": "Système géothermique",
-    "count": 8
+    "count": 8,
+    "percentage": 0.001569227449711164
   },
   {
     "type": "Meuble self chaud",
-    "count": 7
+    "count": 7,
+    "percentage": 0.0013730740184972686
   },
   {
     "type": "Rayonnage",
-    "count": 7
+    "count": 7,
+    "percentage": 0.0013730740184972686
   },
   {
     "type": "Meuble self froid",
-    "count": 7
+    "count": 7,
+    "percentage": 0.0013730740184972686
   },
   {
     "type": "Courrier",
-    "count": 7
+    "count": 7,
+    "percentage": 0.0013730740184972686
   },
   {
     "type": "Poêle",
-    "count": 6
+    "count": 6,
+    "percentage": 0.0011769205872833731
   },
   {
     "type": "Chambre d'hôtel",
-    "count": 6
+    "count": 6,
+    "percentage": 0.0011769205872833731
   },
   {
     "type": "Maquette pédagogique",
-    "count": 5
+    "count": 5,
+    "percentage": 0.0009807671560694777
   },
   {
     "type": "Photocopieurs et imprimantes",
-    "count": 5
+    "count": 5,
+    "percentage": 0.0009807671560694777
   },
   {
     "type": "Échafaudage",
-    "count": 5
+    "count": 5,
+    "percentage": 0.0009807671560694777
   },
   {
     "type": "Vestiaire",
-    "count": 5
+    "count": 5,
+    "percentage": 0.0009807671560694777
   },
   {
     "type": "Traitement vapeur eau surchauffée",
-    "count": 5
+    "count": 5,
+    "percentage": 0.0009807671560694777
   },
   {
     "type": "Distribution automatique",
-    "count": 4
+    "count": 4,
+    "percentage": 0.000784613724855582
   },
   {
     "type": "Superstructure",
-    "count": 4
+    "count": 4,
+    "percentage": 0.000784613724855582
   },
   {
     "type": "Purification d'eau",
-    "count": 3
+    "count": 3,
+    "percentage": 0.0005884602936416866
   },
   {
     "type": "Mobilier urbain",
-    "count": 3
+    "count": 3,
+    "percentage": 0.0005884602936416866
   },
   {
     "type": "Analyseur de combustion",
-    "count": 3
+    "count": 3,
+    "percentage": 0.0005884602936416866
   },
   {
     "type": "Panneau",
-    "count": 3
+    "count": 3,
+    "percentage": 0.0005884602936416866
   },
   {
     "type": "Hotte d'aspiration",
-    "count": 3
+    "count": 3,
+    "percentage": 0.0005884602936416866
   },
   {
     "type": "Système d'autocontrôle",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Réseau d'argon",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Balançoire",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Mobilier extérieur",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Stérilisation",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Salage - Déneigement",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Système de géothermie",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Tableau d'affichage",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Équipements sportifs",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Équipement sportif",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Cellule logistique",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Poteau",
-    "count": 2
+    "count": 2,
+    "percentage": 0.000392306862427791
   },
   {
     "type": "Aire de livraison",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Filet",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Conciergerie",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Espace vert",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Rotamètre",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Massicot",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Électromécanique",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   },
   {
     "type": "Système de transport de document",
-    "count": 1
+    "count": 1,
+    "percentage": 0.0001961534312138955
   }
 ]

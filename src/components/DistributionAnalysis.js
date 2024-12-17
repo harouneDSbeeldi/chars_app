@@ -12,6 +12,26 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
     '#E0E0E0' // for Others
   ];
 
+  // Custom label formatter for pie chart
+  const renderCustomLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, type }) => {
+    const RADIAN = Math.PI / 180;
+    const radius = innerRadius + (outerRadius - innerRadius) * 0.5;
+    const x = cx + radius * Math.cos(-midAngle * RADIAN);
+    const y = cy + radius * Math.sin(-midAngle * RADIAN);
+
+    return (
+      <text
+        x={x}
+        y={y}
+        fill="black"
+        textAnchor={x > cx ? 'start' : 'end'}
+        dominantBaseline="central"
+      >
+        {`${type} (${(percent * 100).toFixed(1)}%)`}
+      </text>
+    );
+  };
+
   return (
     <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '20px' }}>
       <h1 style={{ textAlign: 'center', marginBottom: '20px' }}>
@@ -38,7 +58,7 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
               cx={400}
               cy={300}
               labelLine={true}
-              label={({name, percent}) => `${name} (${(percent * 100).toFixed(1)}%)`}
+              label={renderCustomLabel}
               outerRadius={200}
               fill="#8884d8"
               dataKey="count"
@@ -47,8 +67,13 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
               ))}
             </Pie>
-            <Tooltip />
-            <Legend layout="vertical" align="right" verticalAlign="middle" />
+            <Tooltip formatter={(value, name, props) => [value, props.payload.type]} />
+            <Legend
+              formatter={(value, entry) => entry.payload.type}
+              layout="vertical"
+              align="right"
+              verticalAlign="middle"
+            />
           </PieChart>
         </div>
       )}
@@ -61,6 +86,7 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
               cx={600}
               cy={600}
               labelLine={false}
+              label={renderCustomLabel}
               outerRadius={500}
               fill="#8884d8"
               dataKey="count"
@@ -69,8 +95,13 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
               ))}
             </Pie>
-            <Tooltip />
-            <Legend layout="vertical" align="right" verticalAlign="middle" />
+            <Tooltip formatter={(value, name, props) => [value, props.payload.type]} />
+            <Legend
+              formatter={(value, entry) => entry.payload.type}
+              layout="vertical"
+              align="right"
+              verticalAlign="middle"
+            />
           </PieChart>
         </div>
       )}
@@ -91,7 +122,7 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="type" angle={-45} textAnchor="end" interval={0} height={100} />
             <YAxis />
-            <Tooltip />
+            <Tooltip formatter={(value, name, props) => [value, props.payload.type]} />
             <Bar dataKey="count" fill="#8884d8">
               {dataAll.slice(0, 30).map((entry, index) => (
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
