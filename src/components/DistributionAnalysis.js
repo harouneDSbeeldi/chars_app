@@ -31,16 +31,18 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
       </div>
 
       {view === 'top20' && (
-        <div style={{ height: '600px' }}>
-          <PieChart width={800} height={600}>
+        <div style={{ height: '800px' }}>
+          <PieChart width={1200} height={600}>
             <Pie
               data={data20}
-              cx={400}
+              cx={300}
               cy={300}
               labelLine={false}
-              outerRadius={200}
+              outerRadius={250}
               fill="#8884d8"
               dataKey="count"
+              startAngle={180}
+              endAngle={-180}
             >
               {data20.map((entry, index) => (
                 <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
@@ -55,7 +57,11 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
             <Legend
               layout="vertical"
               align="right"
-              verticalAlign="top"
+              verticalAlign="middle"
+              wrapperStyle={{
+                paddingLeft: '350px'
+              }}
+              height={500}
               formatter={(value, entry) => `${entry.payload.type} (${((entry.payload.count / data20.reduce((acc, curr) => acc + curr.count, 0)) * 100).toFixed(1)}%)`}
             />
           </PieChart>
