@@ -38,7 +38,7 @@ const DistributionAnalysis = ({ data20, dataAll }) => {
               cx={400}
               cy={300}
               labelLine={false}
-              outerRadius={200}
+              outerRadius={300}
               fill="#8884d8"
               dataKey="count"
             >
