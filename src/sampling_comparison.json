@@ -1,0 +1,145 @@
+{
+  "strategies": [
+    {
+      "name": "Frequency Based",
+      "totalSamples": 494,
+      "uniqueTypes": 242,
+      "distribution": [
+        {
+          "type": "Pompe",
+          "count": 7
+        },
+        {
+          "type": "Éclairage de sécurité",
+          "count": 7
+        },
+        {
+          "type": "Emetteur",
+          "count": 7
+        },
+        {
+          "type": "Ventilateur de désenfumage mécanique",
+          "count": 7
+        },
+        {
+          "type": "Équipement sanitaire",
+          "count": 7
+        },
+        {
+          "type": "Dispositif anti-pollution",
+          "count": 7
+        },
+        {
+          "type": "Éclairage intérieur",
+          "count": 7
+        },
+        {
+          "type": "Chaudière",
+          "count": 7
+        },
+        {
+          "type": "Traitement d'eau",
+          "count": 7
+        },
+        {
+          "type": "Protection des réseaux",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "name": "Top 20 Balanced",
+      "totalSamples": 100,
+      "uniqueTypes": 20,
+      "distribution": [
+        {
+          "type": "Pompe",
+          "count": 5
+        },
+        {
+          "type": "Éclairage de sécurité",
+          "count": 5
+        },
+        {
+          "type": "Système de régulation",
+          "count": 5
+        },
+        {
+          "type": "Équipement sanitaire",
+          "count": 5
+        },
+        {
+          "type": "Dispositif anti-pollution",
+          "count": 5
+        },
+        {
+          "type": "Éclairage intérieur",
+          "count": 5
+        },
+        {
+          "type": "Chaudière",
+          "count": 5
+        },
+        {
+          "type": "Traitement d'eau",
+          "count": 5
+        },
+        {
+          "type": "Protection des réseaux",
+          "count": 5
+        },
+        {
+          "type": "Extincteur",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "name": "Proportional",
+      "totalSamples": 444,
+      "uniqueTypes": 242,
+      "distribution": [
+        {
+          "type": "Pompe",
+          "count": 33
+        },
+        {
+          "type": "Emetteur",
+          "count": 29
+        },
+        {
+          "type": "Armoire électrique",
+          "count": 19
+        },
+        {
+          "type": "Système de climatisation",
+          "count": 19
+        },
+        {
+          "type": "Ventilateur mécanique",
+          "count": 14
+        },
+        {
+          "type": "Compteur",
+          "count": 14
+        },
+        {
+          "type": "CTA",
+          "count": 11
+        },
+        {
+          "type": "Vanne",
+          "count": 11
+        },
+        {
+          "type": "Production et stockage ECS",
+          "count": 9
+        },
+        {
+          "type": "Traitement d'eau",
+          "count": 6
+        }
+      ]
+    }
+  ]
+}

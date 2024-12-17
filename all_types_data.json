@@ -1,0 +1,970 @@
+[
+  {
+    "type": "Pompe",
+    "count": 56461
+  },
+  {
+    "type": "Emetteur",
+    "count": 49924
+  },
+  {
+    "type": "Armoire électrique",
+    "count": 33480
+  },
+  {
+    "type": "Système de climatisation",
+    "count": 32646
+  },
+  {
+    "type": "Ventilateur mécanique",
+    "count": 25060
+  },
+  {
+    "type": "Compteur",
+    "count": 24439
+  },
+  {
+    "type": "CTA",
+    "count": 18828
+  },
+  {
+    "type": "Vanne",
+    "count": 18716
+  },
+  {
+    "type": "Production et stockage ECS",
+    "count": 16337
+  },
+  {
+    "type": "Extincteur",
+    "count": 11249
+  },
+  {
+    "type": "Éclairage de sécurité",
+    "count": 10615
+  },
+  {
+    "type": "Protection des réseaux",
+    "count": 10478
+  },
+  {
+    "type": "Traitement d'eau",
+    "count": 10338
+  },
+  {
+    "type": "",
+    "count": 9704
+  },
+  {
+    "type": "Chaudière",
+    "count": 9668
+  },
+  {
+    "type": "Éclairage intérieur",
+    "count": 8693
+  },
+  {
+    "type": "Dispositif anti-pollution",
+    "count": 8524
+  },
+  {
+    "type": "Équipement sanitaire",
+    "count": 8153
+  },
+  {
+    "type": "Système de régulation",
+    "count": 7645
+  },
+  {
+    "type": "Ventilateur de désenfumage mécanique",
+    "count": 6002
+  },
+  {
+    "type": "Coffret électrique",
+    "count": 4904
+  },
+  {
+    "type": "Cellule HT/MT",
+    "count": 4866
+  },
+  {
+    "type": "Échangeur / Récupérateur",
+    "count": 4736
+  },
+  {
+    "type": "Groupe froid",
+    "count": 4534
+  },
+  {
+    "type": "Système de compartimentage",
+    "count": 4018
+  },
+  {
+    "type": "Local",
+    "count": 3818
+  },
+  {
+    "type": "Armoire de climatisation",
+    "count": 3795
+  },
+  {
+    "type": "Régulateur de pression",
+    "count": 3602
+  },
+  {
+    "type": "Transformateur",
+    "count": 3334
+  },
+  {
+    "type": "Porte de garage",
+    "count": 3244
+  },
+  {
+    "type": "Réseau aéraulique",
+    "count": 3222
+  },
+  {
+    "type": "Variateur de vitesse",
+    "count": 3208
+  },
+  {
+    "type": "Système de désenfumage",
+    "count": 3208
+  },
+  {
+    "type": "Onduleur",
+    "count": 3140
+  },
+  {
+    "type": "Système de détection incendie",
+    "count": 3128
+  },
+  {
+    "type": "TGBT",
+    "count": 3105
+  },
+  {
+    "type": "Contrôle d'accès",
+    "count": 3093
+  },
+  {
+    "type": "PAC",
+    "count": 2925
+  },
+  {
+    "type": "Aérotherme",
+    "count": 2257
+  },
+  {
+    "type": "Organe de coupure électrique",
+    "count": 2054
+  },
+  {
+    "type": "Porte piétonne",
+    "count": 1912
+  },
+  {
+    "type": "Ballon de stockage eau chaude",
+    "count": 1705
+  },
+  {
+    "type": "Éclairage extérieur",
+    "count": 1665
+  },
+  {
+    "type": "Matériel de cuisson",
+    "count": 1545
+  },
+  {
+    "type": "Brûleur",
+    "count": 1488
+  },
+  {
+    "type": "RIA",
+    "count": 1468
+  },
+  {
+    "type": "Équipement d'alarme EA",
+    "count": 1431
+  },
+  {
+    "type": "Menuiserie intérieure",
+    "count": 1408
+  },
+  {
+    "type": "Rideau métallique",
+    "count": 1342
+  },
+  {
+    "type": "Ascenseur",
+    "count": 1300
+  },
+  {
+    "type": "Chambre froide",
+    "count": 1273
+  },
+  {
+    "type": "Menuiserie extérieure",
+    "count": 1272
+  },
+  {
+    "type": "Réseau de distribution électrique",
+    "count": 1235
+  },
+  {
+    "type": "Réseau hydraulique",
+    "count": 1229
+  },
+  {
+    "type": "Cuisine / Restaurant",
+    "count": 1219
+  },
+  {
+    "type": "Compresseur d'air",
+    "count": 1183
+  },
+  {
+    "type": "Matériel réfrigéré",
+    "count": 1130
+  },
+  {
+    "type": "Portail",
+    "count": 998
+  },
+  {
+    "type": "Humidificateur",
+    "count": 920
+  },
+  {
+    "type": "Groupe électrogène",
+    "count": 869
+  },
+  {
+    "type": "Électroménager pro",
+    "count": 861
+  },
+  {
+    "type": "Réseau sprinkler",
+    "count": 854
+  },
+  {
+    "type": "Sonde",
+    "count": 786
+  },
+  {
+    "type": "Toiture",
+    "count": 771
+  },
+  {
+    "type": "Fermeture et store",
+    "count": 768
+  },
+  {
+    "type": "Ventilateur parking",
+    "count": 753
+  },
+  {
+    "type": "Condenseur",
+    "count": 749
+  },
+  {
+    "type": "Borne de recharge véhicule électrique",
+    "count": 742
+  },
+  {
+    "type": "Système de gestion technique",
+    "count": 738
+  },
+  {
+    "type": "Centrale de détection gaz",
+    "count": 721
+  },
+  {
+    "type": "Commande d'éclairage",
+    "count": 705
+  },
+  {
+    "type": "Niveleur de quai",
+    "count": 694
+  },
+  {
+    "type": "Commande de désenfumage naturel",
+    "count": 688
+  },
+  {
+    "type": "Système d'évacuation",
+    "count": 676
+  },
+  {
+    "type": "Propreté",
+    "count": 669
+  },
+  {
+    "type": "Dry cooler",
+    "count": 666
+  },
+  {
+    "type": "Réservoir",
+    "count": 663
+  },
+  {
+    "type": "Batterie de condensateurs",
+    "count": 656
+  },
+  {
+    "type": "Système de vidéosurveillance",
+    "count": 614
+  },
+  {
+    "type": "Cuve",
+    "count": 587
+  },
+  {
+    "type": "Pont",
+    "count": 581
+  },
+  {
+    "type": "Fontaine à eau",
+    "count": 562
+  },
+  {
+    "type": "Détecteur de gaz",
+    "count": 543
+  },
+  {
+    "type": "Système anti-intrusion",
+    "count": 532
+  },
+  {
+    "type": "Autre air comprimé",
+    "count": 521
+  },
+  {
+    "type": "Inverseur de source",
+    "count": 520
+  },
+  {
+    "type": "Porte rapide",
+    "count": 500
+  },
+  {
+    "type": "Approvisionnement gaz",
+    "count": 493
+  },
+  {
+    "type": "Climatiseur monobloc",
+    "count": 480
+  },
+  {
+    "type": "Climatiseur mobile",
+    "count": 477
+  },
+  {
+    "type": "Chargeur de batterie",
+    "count": 464
+  },
+  {
+    "type": "Ballon de stockage eau glacée",
+    "count": 463
+  },
+  {
+    "type": "Revêtement",
+    "count": 438
+  },
+  {
+    "type": "Batterie",
+    "count": 428
+  },
+  {
+    "type": "Serrurerie",
+    "count": 425
+  },
+  {
+    "type": "Réseau de communication",
+    "count": 422
+  },
+  {
+    "type": "Colonne extinction incendie",
+    "count": 404
+  },
+  {
+    "type": "Climatiseur monobloc réversible",
+    "count": 400
+  },
+  {
+    "type": "Installation fixe d'extinction automatique",
+    "count": 375
+  },
+  {
+    "type": "Réseau d'évacuation",
+    "count": 370
+  },
+  {
+    "type": "AES",
+    "count": 362
+  },
+  {
+    "type": "Palan - Potence - Portique",
+    "count": 358
+  },
+  {
+    "type": "Sécheur d'air",
+    "count": 330
+  },
+  {
+    "type": "Mobilier",
+    "count": 323
+  },
+  {
+    "type": "Porte issue de secours",
+    "count": 321
+  },
+  {
+    "type": "Élément de sécurité ",
+    "count": 314
+  },
+  {
+    "type": "Nacelle",
+    "count": 279
+  },
+  {
+    "type": "Signalétique",
+    "count": 277
+  },
+  {
+    "type": "Façade",
+    "count": 275
+  },
+  {
+    "type": "Gestion des déchets",
+    "count": 274
+  },
+  {
+    "type": "Moyen d'accès en hauteur",
+    "count": 258
+  },
+  {
+    "type": "Solaire thermique",
+    "count": 253
+  },
+  {
+    "type": "Système biomasse",
+    "count": 248
+  },
+  {
+    "type": "Monte-charge",
+    "count": 226
+  },
+  {
+    "type": "Plan d'évacuation",
+    "count": 217
+  },
+  {
+    "type": "Protection foudre",
+    "count": 213
+  },
+  {
+    "type": "Sécurité des personnes",
+    "count": 212
+  },
+  {
+    "type": "Système de lavage",
+    "count": 210
+  },
+  {
+    "type": "Registre de sécurité",
+    "count": 207
+  },
+  {
+    "type": "Piscine",
+    "count": 205
+  },
+  {
+    "type": "Système de détection de fuite",
+    "count": 203
+  },
+  {
+    "type": "Plafond",
+    "count": 200
+  },
+  {
+    "type": "Accès PMR",
+    "count": 198
+  },
+  {
+    "type": "Matériel extinction incendie",
+    "count": 197
+  },
+  {
+    "type": "TGS",
+    "count": 190
+  },
+  {
+    "type": "Permutateur de source HT",
+    "count": 187
+  },
+  {
+    "type": "Bureau",
+    "count": 183
+  },
+  {
+    "type": "DAC",
+    "count": 177
+  },
+  {
+    "type": "Tour aéroréfrigérante",
+    "count": 169
+  },
+  {
+    "type": "Système de séchage",
+    "count": 165
+  },
+  {
+    "type": "Débitmètre",
+    "count": 163
+  },
+  {
+    "type": "Organe de coupure eau sanitaire",
+    "count": 152
+  },
+  {
+    "type": "Solaire photovoltaïque",
+    "count": 149
+  },
+  {
+    "type": "UGA",
+    "count": 144
+  },
+  {
+    "type": "Table élévatrice",
+    "count": 142
+  },
+  {
+    "type": "Multimédia",
+    "count": 138
+  },
+  {
+    "type": "Réservoir incendie",
+    "count": 134
+  },
+  {
+    "type": "Process",
+    "count": 133
+  },
+  {
+    "type": "Réseau d'air comprimé",
+    "count": 125
+  },
+  {
+    "type": "Protection bâtiment et personnel",
+    "count": 124
+  },
+  {
+    "type": "Couteaux et découpe",
+    "count": 119
+  },
+  {
+    "type": "Cuve fioul pour GE",
+    "count": 113
+  },
+  {
+    "type": "Appartement",
+    "count": 112
+  },
+  {
+    "type": "Bureautique",
+    "count": 106
+  },
+  {
+    "type": "Parties communes",
+    "count": 101
+  },
+  {
+    "type": "Bouche d'incendie",
+    "count": 101
+  },
+  {
+    "type": "Mur",
+    "count": 101
+  },
+  {
+    "type": "Sas et étanchéité",
+    "count": 100
+  },
+  {
+    "type": "Réseaux",
+    "count": 99
+  },
+  {
+    "type": "Déstratificateur",
+    "count": 92
+  },
+  {
+    "type": "Travail du bois",
+    "count": 92
+  },
+  {
+    "type": "Organe de coupure gaz",
+    "count": 90
+  },
+  {
+    "type": "Thermomètre",
+    "count": 85
+  },
+  {
+    "type": "Réseau condensats",
+    "count": 84
+  },
+  {
+    "type": "Traceur",
+    "count": 74
+  },
+  {
+    "type": "Séparateur eau-huile",
+    "count": 71
+  },
+  {
+    "type": "Chariot de manutention",
+    "count": 65
+  },
+  {
+    "type": "Centrale de mesures",
+    "count": 64
+  },
+  {
+    "type": "Transpalette",
+    "count": 64
+  },
+  {
+    "type": "Espaces verts",
+    "count": 61
+  },
+  {
+    "type": "Préparateur de boissons",
+    "count": 58
+  },
+  {
+    "type": "Réseau vapeur",
+    "count": 54
+  },
+  {
+    "type": "Réseau urbain",
+    "count": 52
+  },
+  {
+    "type": "Approvisionnement fioul",
+    "count": 51
+  },
+  {
+    "type": "Blanchisserie",
+    "count": 50
+  },
+  {
+    "type": "Manomètre",
+    "count": 49
+  },
+  {
+    "type": "Froid industriel",
+    "count": 45
+  },
+  {
+    "type": "Voirie",
+    "count": 44
+  },
+  {
+    "type": "Convoyeur",
+    "count": 42
+  },
+  {
+    "type": "Balcon",
+    "count": 42
+  },
+  {
+    "type": "Gerbeur",
+    "count": 38
+  },
+  {
+    "type": "Système de repassage",
+    "count": 38
+  },
+  {
+    "type": "Treuil",
+    "count": 38
+  },
+  {
+    "type": "Divers",
+    "count": 37
+  },
+  {
+    "type": "Cloison",
+    "count": 32
+  },
+  {
+    "type": "Métrologie",
+    "count": 32
+  },
+  {
+    "type": "Réseau de vide",
+    "count": 30
+  },
+  {
+    "type": "Enceinte climatique",
+    "count": 30
+  },
+  {
+    "type": "Station GNV",
+    "count": 29
+  },
+  {
+    "type": "EPI",
+    "count": 28
+  },
+  {
+    "type": "Système d'emballage",
+    "count": 27
+  },
+  {
+    "type": "Contrôleur d'isolement",
+    "count": 24
+  },
+  {
+    "type": "Clôture",
+    "count": 22
+  },
+  {
+    "type": "Infrastructure",
+    "count": 20
+  },
+  {
+    "type": "Système éolien",
+    "count": 20
+  },
+  {
+    "type": "Parking",
+    "count": 20
+  },
+  {
+    "type": "Vapeur eau surchauffée",
+    "count": 20
+  },
+  {
+    "type": "Réseau incendie et sécurité",
+    "count": 20
+  },
+  {
+    "type": "Station de carburant",
+    "count": 19
+  },
+  {
+    "type": "Escalator",
+    "count": 17
+  },
+  {
+    "type": "3D / 4D",
+    "count": 17
+  },
+  {
+    "type": "Chaudière vapeur (Process)",
+    "count": 16
+  },
+  {
+    "type": "Plancher",
+    "count": 14
+  },
+  {
+    "type": "Organe de coupure eau incendie",
+    "count": 13
+  },
+  {
+    "type": "Distribution hydraulique",
+    "count": 13
+  },
+  {
+    "type": "Fluides spéciaux",
+    "count": 10
+  },
+  {
+    "type": "Rangement",
+    "count": 10
+  },
+  {
+    "type": "Sécurité / Sûreté",
+    "count": 10
+  },
+  {
+    "type": "Aire de jeux",
+    "count": 10
+  },
+  {
+    "type": "Accueil",
+    "count": 9
+  },
+  {
+    "type": "Station de lavage",
+    "count": 8
+  },
+  {
+    "type": "Nettoyage centralisé par vide",
+    "count": 8
+  },
+  {
+    "type": "Gestion des véhicules",
+    "count": 8
+  },
+  {
+    "type": "Système géothermique",
+    "count": 8
+  },
+  {
+    "type": "Meuble self chaud",
+    "count": 7
+  },
+  {
+    "type": "Rayonnage",
+    "count": 7
+  },
+  {
+    "type": "Meuble self froid",
+    "count": 7
+  },
+  {
+    "type": "Courrier",
+    "count": 7
+  },
+  {
+    "type": "Poêle",
+    "count": 6
+  },
+  {
+    "type": "Chambre d'hôtel",
+    "count": 6
+  },
+  {
+    "type": "Maquette pédagogique",
+    "count": 5
+  },
+  {
+    "type": "Photocopieurs et imprimantes",
+    "count": 5
+  },
+  {
+    "type": "Échafaudage",
+    "count": 5
+  },
+  {
+    "type": "Vestiaire",
+    "count": 5
+  },
+  {
+    "type": "Traitement vapeur eau surchauffée",
+    "count": 5
+  },
+  {
+    "type": "Distribution automatique",
+    "count": 4
+  },
+  {
+    "type": "Superstructure",
+    "count": 4
+  },
+  {
+    "type": "Purification d'eau",
+    "count": 3
+  },
+  {
+    "type": "Mobilier urbain",
+    "count": 3
+  },
+  {
+    "type": "Analyseur de combustion",
+    "count": 3
+  },
+  {
+    "type": "Panneau",
+    "count": 3
+  },
+  {
+    "type": "Hotte d'aspiration",
+    "count": 3
+  },
+  {
+    "type": "Système d'autocontrôle",
+    "count": 2
+  },
+  {
+    "type": "Réseau d'argon",
+    "count": 2
+  },
+  {
+    "type": "Balançoire",
+    "count": 2
+  },
+  {
+    "type": "Mobilier extérieur",
+    "count": 2
+  },
+  {
+    "type": "Stérilisation",
+    "count": 2
+  },
+  {
+    "type": "Salage - Déneigement",
+    "count": 2
+  },
+  {
+    "type": "Système de géothermie",
+    "count": 2
+  },
+  {
+    "type": "Tableau d'affichage",
+    "count": 2
+  },
+  {
+    "type": "Équipements sportifs",
+    "count": 2
+  },
+  {
+    "type": "Équipement sportif",
+    "count": 2
+  },
+  {
+    "type": "Cellule logistique",
+    "count": 2
+  },
+  {
+    "type": "Poteau",
+    "count": 2
+  },
+  {
+    "type": "Aire de livraison",
+    "count": 1
+  },
+  {
+    "type": "Filet",
+    "count": 1
+  },
+  {
+    "type": "Conciergerie",
+    "count": 1
+  },
+  {
+    "type": "Espace vert",
+    "count": 1
+  },
+  {
+    "type": "Rotamètre",
+    "count": 1
+  },
+  {
+    "type": "Massicot",
+    "count": 1
+  },
+  {
+    "type": "Électromécanique",
+    "count": 1
+  },
+  {
+    "type": "Système de transport de document",
+    "count": 1
+  }
+]
